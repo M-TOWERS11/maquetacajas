@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.barra{
+    background-color: violet;
+    height: 10vh;
+}
+
+.bienvenidos{
+    background-color: yellow;
+    height: 90vh;
+}
+
+.servicios{
+    background-color: blueviolet;
+    height: 30vh;
+}
+
+.multimedia{
+    background-color: blue;
+    height: 70vh;
+}
+
+.ilustracion{
+    background-color: red;
+    height: 70vh;
+}
+
+.diseñoweb{
+    background-color: aquamarine;
+    height: 70vh;
+}
+
+.portafolio{
+    background-color: blueviolet;
+    height: 20vh;
+}
+
+.fotografia{
+    background-color: rgb(10, 133, 92);
+    height: 80vh;
+}
+
+.audiovisuales{
+    background-color: purple;
+    height: 80vh;
+}
+
+.dibujo{
+    background-color: rgb(138, 235, 48);
+    height: 100vh;
+}
+
+.diseño{
+    background-color: rgb(14, 46, 233);
+    height: 100vh;
+}
+
+.sobremi{
+    background-color: blueviolet;
+    height: 20vh;
+}
+
+.texto{
+    background-color: rgb(10, 133, 92);
+    height: 80vh;
+}
+
+.foto{
+    background-color: purple;
+    height: 80vh;
+}
+
+.contacto{
+    background-color: blueviolet;
+    height: 20vh;
+}
+
+.facebook{
+    background-color: rgb(40, 27, 209);
+    height: 40vh;
+}
+
+.gmail{
+    background-color: rgb(167, 150, 143);
+    height: 40vh;
+}
+
+.youtube{
+    background-color: rgb(216, 13, 13);
+    height: 40vh;
+}
+
+.whatsapp{
+    background-color: rgb(16, 117, 33);
+    height: 40vh;
+}
+
+.instagram{
+    background-color: rgb(207, 24, 85);
+    height: 40vh;
+}
+
+.pinterest{
+    background-color: rgb(187, 82, 12);
+    height: 40vh;
+}
+
+
+
