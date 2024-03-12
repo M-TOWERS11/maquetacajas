@@ -5,114 +5,257 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: #0F0E0E;
 }
 
 .barra{
-    background-color: violet;
-    height: 10vh;
+    color: aliceblue;
 }
 
 .bienvenidos{
-    background-color: yellow;
-    height: 90vh;
+    background-color: #fff;
+    height: 92vh;
+    width: 100%;
+    max-width: 1600px;
+    min-width: 320px;
+    margin: auto;
 }
 
+img{
+    width: 100%;
+}
+
+
+
 .servicios{
-    background-color: blueviolet;
-    height: 30vh;
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 10vh;
+    color: aliceblue;
+    text-align: center;
+}
+
+.textoservicios{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 10vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .multimedia{
-    background-color: blue;
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 70vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.multimediafoto{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 35vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.multimediatexto{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 28vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .ilustracion{
-    background-color: red;
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 70vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .diseñoweb{
-    background-color: aquamarine;
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 70vh;
+    text-align: center;
+    color: aliceblue;
 }
 
+
+
 .portafolio{
-    background-color: blueviolet;
-    height: 20vh;
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
+    height: 10vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .fotografia{
-    background-color: rgb(10, 133, 92);
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
     height: 80vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.fotografiatexto1{
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
+    height: 7vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.fotografiafoto{
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
+    height: 65vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.ilustraciontexto{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 7vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.ilustracionfoto{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 65vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .audiovisuales{
-    background-color: purple;
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
     height: 80vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .dibujo{
-    background-color: rgb(138, 235, 48);
-    height: 100vh;
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 80vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .diseño{
-    background-color: rgb(14, 46, 233);
-    height: 100vh;
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 80vh;
+    text-align: center;
+    color: aliceblue;
 }
 
+
+
 .sobremi{
-    background-color: blueviolet;
-    height: 20vh;
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
+    height: 10vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .texto{
-    background-color: rgb(10, 133, 92);
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
     height: 80vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .foto{
-    background-color: purple;
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
     height: 80vh;
+    text-align: center;
+    color: aliceblue;
 }
 
+.sobremitexto{
+    border: 2px solid #fff;
+    background-color: #0F0E0E;
+    height: 72vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
 .contacto{
-    background-color: blueviolet;
-    height: 20vh;
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 10vh;
+    text-align: center;
+    color: aliceblue;
+}
+
+.contactofoto{
+    border: 2px solid #fff;
+    background-color: #252526;
+    height: 33vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .facebook{
-    background-color: rgb(40, 27, 209);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .gmail{
-    background-color: rgb(167, 150, 143);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .youtube{
-    background-color: rgb(216, 13, 13);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .whatsapp{
-    background-color: rgb(16, 117, 33);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .instagram{
-    background-color: rgb(207, 24, 85);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
 
 .pinterest{
-    background-color: rgb(187, 82, 12);
+    border: 2px solid #fff;
+    background-color: #252526;
     height: 40vh;
+    text-align: center;
+    color: aliceblue;
 }
-
 
 
 
